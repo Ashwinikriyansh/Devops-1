@@ -1,5 +1,5 @@
 # Install Tomcat 
-- wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.98/bin/apache-tomcat-8.5.96.tar.gz
+- wget https://dlcdn.apache.org/tomcat/tomcat-8/v8.5.98/bin/apache-tomcat-8.5.98.tar.gz
 
 
 # to Untar
